@@ -228,7 +228,7 @@ body, input, textarea, select {
     src: url("../../../uploads/et-fonts/bluehigl.ttf") format("truetype")
 }
 div.et_pb_section.et_pb_section_0 {
-    background-image: radial-gradient(circle at top left, rgba(255,255,255,0.8) 50%, rgba(161,176,221,0.64) 50%), url(../../../uploads/2019/01/services_1920.jpg)!important
+    background-image: radial-gradient(circle at top left, rgba(255,255,255,0.8) 50%, rgba(161,176,221,0.64) 50%), url("../../../../Csatlakozas/szim_foci.jpg")!important
 }
 .et_pb_text_3 {
     padding-top: 2vw!important
