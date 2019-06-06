@@ -301,7 +301,7 @@ html:not(.et_fb_edit_enabled) #et-fb-app .et_pb_section_4:hover {
     backface-visibility: hidden
 }
 div.et_pb_section.et_pb_section_4 {
-    background-image: url(../../../uploads/2019/04/paint_splash.jpg)!important
+    background-image: url(../../../uploads/2019/04/splash.jpg)!important
 }
 .et_pb_text_2 h2 {
     font-family: 'Josefin Sans', Helvetica, Arial, Lucida, sans-serif;
@@ -365,7 +365,7 @@ body #page-container .et_pb_signup_0.et_pb_subscribe .et_pb_newsletter_button.et
     font-family: 'Roboto', Helvetica, Arial, Lucida, sans-serif!important;
     font-weight: 700!important;
     text-transform: uppercase!important;
-    background-color: #71cfd6
+    background-color: #000000
 }
 .et_pb_signup_0 .et_pb_newsletter_form p input[type="text"], .et_pb_signup_0 .et_pb_newsletter_form p textarea, .et_pb_signup_0 .et_pb_newsletter_form p select, .et_pb_signup_0 .et_pb_newsletter_form p .input[type="radio"]+label i, .et_pb_signup_0 .et_pb_newsletter_form p .input[type="checkbox"]+label i {
     border-radius: 40px 40px 40px 40px;
