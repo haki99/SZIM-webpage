@@ -291,14 +291,11 @@ div.et_pb_section.et_pb_section_0 {
 }
 html:not(.et_fb_edit_enabled) #et-fb-app .et_pb_section_4:hover {
     filter: hue-rotate(33deg);
-    filter: hue-rotate(33deg)
 }
 .et_pb_section_4 {
     filter: hue-rotate(33deg);
     backface-visibility: hidden;
     padding-bottom: 0px;
-    filter: hue-rotate(33deg);
-    backface-visibility: hidden
 }
 div.et_pb_section.et_pb_section_4 {
     background-image: url(../../../uploads/2019/04/splash.jpg)!important
@@ -350,9 +347,8 @@ body #page-container .et_pb_signup_0.et_pb_subscribe .et_pb_newsletter_button.et
 body #page-container .et_pb_signup_0.et_pb_subscribe .et_pb_newsletter_button.et_pb_button:hover:after {
     margin-left: .3em;
     left: auto;
-    margin-left: .3em;
     opacity: 1;
-color:
+    color: rgba(0,0,0,0)
 }
 body #page-container .et_pb_signup_0.et_pb_subscribe .et_pb_newsletter_button.et_pb_button {
     color: #ffffff!important;
@@ -479,9 +475,8 @@ body #page-container .et_pb_button_0:after {
 body #page-container .et_pb_button_0:hover:after {
     margin-left: .3em;
     left: auto;
-    margin-left: .3em;
     opacity: 1;
-color:
+	color: rgb(0,0,0,0)
 }
 body #page-container .et_pb_button_0 {
     color: #ffffff!important;
