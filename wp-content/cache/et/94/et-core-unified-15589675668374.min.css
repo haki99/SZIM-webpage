@@ -96,19 +96,19 @@ letter-spacing:2px
     color: #e5270e
 }
 #main-footer {
-    background-color: #1b6e78
+	background-color: #FFFFFF !important
 }
 #footer-widgets .footer-widget a, #footer-widgets .footer-widget li a, #footer-widgets .footer-widget li a:hover {
-    color: #ffffff
+	color: #000000
 }
 .footer-widget {
-    color: #ffffff
+	color: #000000
 }
 #main-footer .footer-widget h4 {
-    color: #ffffff
+	color: #000000
 }
 .footer-widget li:before {
-    border-color: #ffffff
+    border-color: #000000
 }
 #footer-widgets .footer-widget li:before {
     top: 10.6px
@@ -120,13 +120,13 @@ letter-spacing:2px
     color: #ffffff
 }
 #footer-bottom {
-    background-color: #ed7539
+    background-color: #FFFFFF !important 
 }
 #footer-info, #footer-info a {
     color: #ffffff
 }
 #footer-bottom .et-social-icon a {
-    color: #ffffff
+	color: #000000
 }
 #main-header {
     box-shadow: none
@@ -218,7 +218,7 @@ body, input, textarea, select {
     padding: 10px
 }
 .et_pb_scroll_top.et-pb-icon:hover {
-    background: #78A62E
+
 }
 .et_pb_scroll_top:before {
     content: "\21"

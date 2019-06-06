@@ -220,10 +220,10 @@ br.clear {
     color: #2ea3f2
 }
 .et-search-form, .et_mobile_menu, .footer-widget li:before, .nav li ul, blockquote {
-    border-color: #2ea3f2
+    border-color: #000000
 }
 #et-secondary-nav li ul, #top-header {
-    background-color: #2ea3f2
+    background-color: #000000
 }
 #main-content {
     background-color: #fff
@@ -1757,7 +1757,7 @@ figure.woocommerce-product-gallery__wrapper {
     text-decoration: none
 }
 #footer-widgets .footer-widget li a:hover {
-    color: rgba(255,255,255,.7)
+    color: rgba(255,255,255,0.7)
 }
 .footer-widget .widget_adsensewidget ins {
     min-width: 160px
