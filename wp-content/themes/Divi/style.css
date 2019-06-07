@@ -10018,6 +10018,11 @@ body.et-bfb .et_pb_section_parallax .et_pb_parallax_css, body.et-bfb .et_pb_slid
 .et_pb_text_inner {
     position: relative
 }
+
+.et_pb_text_inner_1 {
+	position: relative;
+	white-space: nowrap
+}
 .et_pb_bg_layout_dark, .et_pb_bg_layout_dark h1, .et_pb_bg_layout_dark h2, .et_pb_bg_layout_dark h3, .et_pb_bg_layout_dark h4, .et_pb_bg_layout_dark h5, .et_pb_bg_layout_dark h6 {
     color: #fff!important
 }
@@ -15957,4 +15962,18 @@ body.et_full_width_page .et_shortcodes_controls_arrows a {
 .et-testimonial {
     padding: 25px
 }
+}
+
+.et_pb_column_inner_2 {
+	padding-left: 2%;
+	padding-right: 2%
+}
+
+.et_pb_row_5 {
+	padding-top: 0px;
+	padding-bottom: 0px;
+	width: 90%;
+    max-width: 90%;
+    margin-left: auto!important;
+    margin-right: 0px!important
 }

@@ -298,7 +298,7 @@ html:not(.et_fb_edit_enabled) #et-fb-app .et_pb_section_4:hover {
     padding-bottom: 0px;
 }
 div.et_pb_section.et_pb_section_4 {
-    background-image: url(../../../uploads/2019/04/splash.jpg)!important
+    background-image: url(../../../uploads/2019/04/splash_green.jpg)!important
 }
 .et_pb_text_2 h2 {
     font-family: 'Josefin Sans', Helvetica, Arial, Lucida, sans-serif;
@@ -407,9 +407,9 @@ font-size:16px;
 line-height:1.8em
 }
 .et_pb_signup_0.et_pb_subscribe .input {
-    font-family: 'Source Sans Pro', Helvetica, Arial, Lucida, sans-serif;
-    font-size: 16px;
-    line-height: 1.8em
+	font-family: 'Source Sans Pro', Helvetica, Arial, Lucida, sans-serif;
+	font-size: 16px;
+	line-height: 1.8em;
 }
 .et_pb_signup_0.et_pb_contact_field .et_pb_contact_field_options_title {
     font-family: 'Source Sans Pro', Helvetica, Arial, Lucida, sans-serif;
