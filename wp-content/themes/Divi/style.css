@@ -172,7 +172,7 @@ input[type=radio] {
 input.text, input.title, input[type=email], input[type=password], input[type=tel], input[type=text], select, textarea {
     padding: 2px;
     border: 1px solid #bbb;
-    color: #000000;
+    color: #000;
     background-color: #fff
 }
 input.text:focus, input.title:focus, input[type=text]:focus, select:focus, textarea:focus {
@@ -1729,7 +1729,7 @@ figure.woocommerce-product-gallery__wrapper {
 }
 .footer-widget {
     float: left;
-    color: #fff
+    color: #000
 }
 .last {
     margin-right: 0
@@ -1753,7 +1753,7 @@ figure.woocommerce-product-gallery__wrapper {
     content: ""
 }
 #footer-widgets .footer-widget li a {
-    color: #fff;
+    color: #000;
     text-decoration: none
 }
 #footer-widgets .footer-widget li a:hover {

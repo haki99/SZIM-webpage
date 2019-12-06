@@ -96,13 +96,13 @@ letter-spacing:2px
 	color: #e5270e
 }
 #main-footer {
-	background-color: #1b6e78
+	background-color: #FFF
 }
 #footer-widgets .footer-widget a, #footer-widgets .footer-widget li a, #footer-widgets .footer-widget li a:hover {
 	color: #ffffff
 }
 .footer-widget {
-	color: #ffffff
+	color: #000000
 }
 #main-footer .footer-widget h4 {
 	color: #ffffff
